@@ -14,6 +14,12 @@ Building scalable web applications and robust backend systems for modern busines
 - Modern JavaScript (ES6+)
 - Responsive Design & PWAs
 
+**WordPress Development**
+- Custom Plugin Development
+- Theme Customization & ACF
+- WooCommerce Extensions
+- Performance & Security Optimization
+
 **DevOps & Integration**
 - AWS | Docker | CI/CD
 - Third-party API Integrations
